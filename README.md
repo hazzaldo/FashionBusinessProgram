@@ -7,3 +7,5 @@ Its concept is a fashion business accelerator program to help fashion design asp
 + BUYERS DEN - Final project & pitching your brand/label to retail buyers. 
 
 I co-designed and wrote the content of the website, and I developed the website myself using HTML, CSS, JS and Bootstrap. 
+
+To view website, please visit: https://hazzaldo.github.io/FashionBusinessProgram/
