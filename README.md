@@ -6,4 +6,4 @@ Its concept is a fashion business accelerator program to help fashion design asp
 + INDUSTRY EXPOSURE TO FACTORIES (ABROAD) - industry visit (exposure to apparel & textile factories abroad in India). 
 + BUYERS DEN - Final project & pitching your brand/label to retail buyers. 
 
-I co-designed and wrote the content of the website. I developed the website using HTML, CSS, JS and Bootstrap. 
+I co-designed and wrote the content of the website, and I developed the website myself using HTML, CSS, JS and Bootstrap. 
